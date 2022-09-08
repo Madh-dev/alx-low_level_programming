@@ -3,8 +3,7 @@
 
 
 /**
- *
- *main - Entry point
+ *main - print the sizeof many var type
  *Return: Always 0 (Success)
  */
 int main(void)
