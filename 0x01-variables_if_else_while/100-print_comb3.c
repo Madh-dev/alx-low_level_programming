@@ -10,11 +10,10 @@ int main(void)
 
 	for (f = '0'; f <= '9'; f++)
 	{
-		for (l = (f + 1); f <= '9'; f++)
+		for (l = (f + 1); l <= '9'; l++)
 		{
 			putchar(f);
-			putchar(l);
-			
+			putchar(l);	
 			if (f != '8' || l != '9')
 			{
 				putchar(',');
