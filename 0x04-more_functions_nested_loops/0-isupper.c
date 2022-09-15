@@ -1,7 +1,3 @@
-/**
- * File: 0-isupper.c
- * Auth: Suara Ayomide
- */
 #include "main.h"
 
 /**
@@ -9,6 +5,7 @@
  * @c is the character to check
  * Return: 1 if it is uppercase, 0 if otherwise
  */
+
 int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
