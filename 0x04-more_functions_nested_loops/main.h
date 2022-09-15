@@ -1,7 +1,10 @@
 #ifndef HOLBERTON_H_INCLUDED
 #define HOLBERTON_H_INCLUDED
 
+#include <stdio.h>
+
 int _isupper(int c);
+int _putchar(int c);
 int _isdigit(int c);
 int mul(int a, int b);
 void print_numbers(void);
