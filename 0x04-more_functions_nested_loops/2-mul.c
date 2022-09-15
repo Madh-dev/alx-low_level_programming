@@ -1,10 +1,10 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * mul - multiplies two integer
- * @a: first number.
- * @a: first number.
- * Return: multiplication
+ * mul - multiplies two integers
+ * @a: one integer
+ * @b: second integer
+ * Return: product of a and b
  */
 int mul(int a, int b)
 {
