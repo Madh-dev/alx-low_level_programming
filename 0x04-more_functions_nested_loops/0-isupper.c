@@ -1,9 +1,13 @@
+/**
+ * File: 0-isupper.c
+ * Auth: Suara Ayomide
+ */
 #include "main.h"
 
 /**
  * _isupper - a function that checks for uppercase character
  * @c is the character to check
- * Return - 1 if it is uppercase, 0 if otherwise
+ * Return: 1 if it is uppercase, 0 if otherwise
  */
 int _isupper(int c)
 {
