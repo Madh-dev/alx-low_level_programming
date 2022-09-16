@@ -1,3 +1,4 @@
+#include "main"
 /**
  * _isupper - checks for uppercase character
  * @c: character to be checked
